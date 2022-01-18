@@ -1,0 +1,40 @@
+body{
+    background-color: yellow;
+}
+
+#head{
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+}
+
+#show_sketch{
+    float: right;
+}
+
+p{
+    font-weight: bold;
+    color: black;
+    font-size: x-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#sketch_drawn{
+    color: red;
+}
+
+#score_span{
+    float: left;
+    margin-left: 10px;
+    font-size: x-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+
+#timer_span{
+    float: right;
+    margin-right: 120px;
+    font-size: x-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
